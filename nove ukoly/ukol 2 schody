@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main()
+{
+    char znak;
+    int vyska;
+
+    printf("zadej znak");
+    scanf_s(" %c", &znak);
+
+    printf("zadej vysku schodu");
+    scanf_s("%d", &vyska);
+
+    for (int i = 0; i < vyska; i++) {
+        for (int j = 0; j < i + 1; j++) {
+            printf("%c", znak);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
