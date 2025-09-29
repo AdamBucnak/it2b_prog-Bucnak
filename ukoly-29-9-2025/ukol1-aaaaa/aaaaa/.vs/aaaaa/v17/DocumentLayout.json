@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st026314\\OneDrive - St\u0159edn\u00ED \u0161kola informatiky, po\u0161tovnictv\u00ED a finan\u010Dnictv\u00ED Brno\\Programovani C visual studio\\aaaaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F81DFA4-F582-4E00-B6EA-C9D90F9E41BC}|aaaaa\\aaaaa.vcxproj|C:\\Users\\st026314\\OneDrive - St\u0159edn\u00ED \u0161kola informatiky, po\u0161tovnictv\u00ED a finan\u010Dnictv\u00ED Brno\\Programovani C visual studio\\aaaaa\\aaaaa\\aaaaa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F81DFA4-F582-4E00-B6EA-C9D90F9E41BC}|aaaaa\\aaaaa.vcxproj|solutionrelative:aaaaa\\aaaaa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aaaaa.cpp",
+              "DocumentMoniker": "C:\\Users\\st026314\\OneDrive - St\u0159edn\u00ED \u0161kola informatiky, po\u0161tovnictv\u00ED a finan\u010Dnictv\u00ED Brno\\Programovani C visual studio\\aaaaa\\aaaaa\\aaaaa.cpp",
+              "RelativeDocumentMoniker": "aaaaa\\aaaaa.cpp",
+              "ToolTip": "C:\\Users\\st026314\\OneDrive - St\u0159edn\u00ED \u0161kola informatiky, po\u0161tovnictv\u00ED a finan\u010Dnictv\u00ED Brno\\Programovani C visual studio\\aaaaa\\aaaaa\\aaaaa.cpp",
+              "RelativeToolTip": "aaaaa\\aaaaa.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-29T10:26:09.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
